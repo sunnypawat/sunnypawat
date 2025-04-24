@@ -18,7 +18,7 @@ Currently studying in EIT School (Cloud and Network Infrastructure) in Italy (UN
 
 - 📫 How to reach me **sunnypawat@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pawatsong/](https://www.linkedin.com/in/pawatsong/)
+- 📄 Know about my experiences [Link to my CV/resume](https://github.com/sunnypawat/sunnypawat/blob/5d8e9c443dd743bfa577c8809cd8389154707a90/cv-pawat-22022025.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
