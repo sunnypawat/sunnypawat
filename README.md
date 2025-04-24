@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1>Hi 👋, I'm Pawat (Sun)</h1>
 <h3>Information and Communication Engineering Student from Bangkok</h3>
-<h3>Current studying in EIT School (Cloud and Network Infrastructure) in Italy (UNITN) and Sweden (KTH)</h3>
+Currently studying in EIT School (Cloud and Network Infrastructure) in Italy (UNITN) and Sweden (KTH)
 
 - 📫 How to reach me **sunnypawat@gmail.com**
 
