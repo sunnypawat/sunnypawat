@@ -16,9 +16,17 @@ Here are some ideas to get you started:
 <h3>Information and Communication Engineering Student from Bangkok</h3>
 Currently studying in EIT School (Cloud and Network Infrastructure) in Italy (UNITN) and Sweden (KTH)
 
-- 📫 How to reach me **sunnypawat@gmail.com**
+<h3>Experience</h3>
 
-- 📄 Know about my experiences [Link to my CV/resume](https://github.com/sunnypawat/sunnypawat/blob/5d8e9c443dd743bfa577c8809cd8389154707a90/cv-pawat-22022025.pdf)
+- Frontend Developer at Thinc. (Thailand Incubator)
+
+- Software Engineering in Test at LINE MAN Wongnai
+
+<hr>
+
+📫 How to reach me **sunnypawat@gmail.com**
+
+📄 Know about my experiences [Link to my CV/resume](https://github.com/sunnypawat/sunnypawat/blob/5d8e9c443dd743bfa577c8809cd8389154707a90/cv-pawat-22022025.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
