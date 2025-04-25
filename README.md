@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi 👋, I'm Pawat (Sun)</h1>
-<h3>Information and Communication Engineering Student from Bangkok</h3>
-Currently studying in EIT School (Cloud and Network Infrastructure) in Italy (UNITN) and Sweden (KTH)
+<h3>Information and Communication Engineering Student from Chulalongkorn University, Bangkok</h3>
 
-<h3>Experience</h3>
+- Currently studying in EIT School (Cloud and Network Infrastructure) in Italy (UNITN) and Sweden (KTH)
 
 - Frontend Developer at Thinc. (Thailand Incubator)
 
