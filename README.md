@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 📫 How to reach me **sunnypawat@gmail.com**
 
-📄 Know about my experiences [Link to my CV/resume](https://github.com/sunnypawat/sunnypawat/blob/5d8e9c443dd743bfa577c8809cd8389154707a90/cv-pawat-22022025.pdf)
+📄 Know about my experiences [Link to my CV/resume](https://github.com/sunnypawat/sunnypawat/blob/ef873aaf3207024564d0efedf17edd3f76a9d774/Pawat-Songkhopanit-Resume-TV.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
